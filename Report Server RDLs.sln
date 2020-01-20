@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "Report Server RDLs", "Report Server RDLs.rptproj", "{86A22DF3-A972-4DA9-BB0F-E1CC89B4AA1E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86A22DF3-A972-4DA9-BB0F-E1CC89B4AA1E}.Debug|Default.ActiveCfg = Debug
+		{86A22DF3-A972-4DA9-BB0F-E1CC89B4AA1E}.Debug|Default.Build.0 = Debug
+		{86A22DF3-A972-4DA9-BB0F-E1CC89B4AA1E}.Debug|Default.Deploy.0 = Debug
+		{86A22DF3-A972-4DA9-BB0F-E1CC89B4AA1E}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{86A22DF3-A972-4DA9-BB0F-E1CC89B4AA1E}.DebugLocal|Default.Build.0 = DebugLocal
+		{86A22DF3-A972-4DA9-BB0F-E1CC89B4AA1E}.Release|Default.ActiveCfg = Release
+		{86A22DF3-A972-4DA9-BB0F-E1CC89B4AA1E}.Release|Default.Build.0 = Release
+		{86A22DF3-A972-4DA9-BB0F-E1CC89B4AA1E}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A81AA9BB-4BD9-4A65-B2F4-D629D6FB60F2}
+	EndGlobalSection
+EndGlobal
