@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="Galeria - Production">
+  <ConnectionProperties>
+    <Extension>ODBC</Extension>
+    <ConnectString>Driver={MySQL ODBC 5.1 Driver};DB=QS36F;SERVER=sar-pt-galdb02.vwi.local;uid=ssrs;pwd='JFHafu6X4K8evqu2';SSLMode=None</ConnectString>
+  </ConnectionProperties>
+  <DataSourceID>d1f944b6-27d9-499d-8929-678a22dae076</DataSourceID>
+</RptDataSource>

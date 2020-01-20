@@ -49,6 +49,12 @@
     <Reports>@(Report)</Reports>
   </PropertyGroup>
   <ItemGroup>
+    <DataSource Include="Galeria - Production.rds" />
+    <DataSource Include="Local_QS36F.rds" />
+  </ItemGroup>
+  <ItemGroup>
+    <Report Include="Client Ageing by Office.rdl" />
+    <Report Include="ProgenityAvero.rdl" />
     <Report Include="StairStep.rdl" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Reporting Services\Microsoft.ReportingServices.MSBuilder.targets" />

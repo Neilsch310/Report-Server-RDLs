@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="Local_QS36F">
+  <ConnectionProperties>
+    <Extension>ODBC</Extension>
+    <ConnectString>Driver={MySQL ODBC 8.0 ANSI Driver};DB=QS36F;SERVER=localhost;uid=root;pwd='HHgg123!';SSLMode=None</ConnectString>
+  </ConnectionProperties>
+  <DataSourceID>d42c5e37-0c14-46f2-a043-1f9d9f932ed1</DataSourceID>
+</RptDataSource>
